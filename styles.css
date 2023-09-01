@@ -1,0 +1,55 @@
+#main {
+    background-color: rgba(177, 177, 177, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0 2em 0 2em;
+}
+
+
+h1 {
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+}
+#img-div {
+    margin-top: 1em;
+    background-color: white;
+    padding: 0 1em 0 1em;
+}
+#image {
+    display: block;
+    max-width: 100%;
+}
+#img-caption {
+    text-align: center;
+    margin: 1em 0;
+}
+h3 {
+    margin: 2em 0;
+    text-align: center;
+}
+li {
+    margin: 1em 0;
+    font-size: 18px;
+}
+blockquote {
+    font-style: italic;
+    text-align: justify;
+    min-width: 100%;
+    font-size: 18px;
+}
+#wiki {
+    padding: 0 2em 0 2em;
+    min-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#if-you-have-time {
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
